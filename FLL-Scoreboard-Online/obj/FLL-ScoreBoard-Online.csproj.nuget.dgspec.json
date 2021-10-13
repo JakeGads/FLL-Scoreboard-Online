@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jgadaleta\\source\\repos\\FLL-Scoreboard-Online\\FLL-ScoreBoard-Online\\FLL-ScoreBoard-Online.csproj": {}
+    "C:\\Users\\jgadaleta\\source\\repos\\FLL-Scoreboard-Online\\FLL-Scoreboard-Online\\FLL-ScoreBoard-Online.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jgadaleta\\source\\repos\\FLL-Scoreboard-Online\\FLL-ScoreBoard-Online\\FLL-ScoreBoard-Online.csproj": {
+    "C:\\Users\\jgadaleta\\source\\repos\\FLL-Scoreboard-Online\\FLL-Scoreboard-Online\\FLL-ScoreBoard-Online.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jgadaleta\\source\\repos\\FLL-Scoreboard-Online\\FLL-ScoreBoard-Online\\FLL-ScoreBoard-Online.csproj",
+        "projectUniqueName": "C:\\Users\\jgadaleta\\source\\repos\\FLL-Scoreboard-Online\\FLL-Scoreboard-Online\\FLL-ScoreBoard-Online.csproj",
         "projectName": "FLL-ScoreBoard-Online",
-        "projectPath": "C:\\Users\\jgadaleta\\source\\repos\\FLL-Scoreboard-Online\\FLL-ScoreBoard-Online\\FLL-ScoreBoard-Online.csproj",
+        "projectPath": "C:\\Users\\jgadaleta\\source\\repos\\FLL-Scoreboard-Online\\FLL-Scoreboard-Online\\FLL-ScoreBoard-Online.csproj",
         "packagesPath": "C:\\Users\\jgadaleta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jgadaleta\\source\\repos\\FLL-Scoreboard-Online\\FLL-ScoreBoard-Online\\obj\\",
+        "outputPath": "C:\\Users\\jgadaleta\\source\\repos\\FLL-Scoreboard-Online\\FLL-Scoreboard-Online\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

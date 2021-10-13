@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CT+ithiGDnfmgHUvnlGqlhgNIpep4btXQuRQWRmI/1PdSDjjtIMkhFilJyYNu3UVivvW0Ehvoc8dkYt2N1XiGQ==",
+  "dgSpecHash": "5EvdeZkABqnRdd8wHiftp/dJ4/KuFNevobfx1oiNvqqZtaYr7fqusJ3cEY6Vb03+vF6ygn3pcak6WiwDpJumdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jgadaleta\\source\\repos\\FLL-Scoreboard-Online\\FLL-ScoreBoard-Online\\FLL-ScoreBoard-Online.csproj",
+  "projectFilePath": "C:\\Users\\jgadaleta\\source\\repos\\FLL-Scoreboard-Online\\FLL-Scoreboard-Online\\FLL-ScoreBoard-Online.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jgadaleta\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\5.0.9\\microsoft.aspnetcore.spaservices.extensions.5.0.9.nupkg.sha512",
     "C:\\Users\\jgadaleta\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
