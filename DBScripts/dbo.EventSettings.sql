@@ -1,7 +1,7 @@
-﻿CREATE TABLE [dbo].[EventSettings]
-(
-	[Id] INT NOT NULL PRIMARY KEY, 
-    [Timer] VARCHAR(50) NULL DEFAULT '02:30', 
-    [AverageScoresTaken] INT NULL DEFAULT 1
-)
+﻿CREATE TABLE [dbo].[EventSettings] (
+    [Id]                 INT          NOT NULL,
+    [Timer]              VARCHAR (50) DEFAULT ('02:30') NULL,
+    [AverageScoresTaken] INT          DEFAULT ((1)) NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
 
